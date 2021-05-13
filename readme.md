@@ -1,3 +1,5 @@
+Welcome to Flextime!
+----------------------------------------------------------------------------------
 Instructions:
 In order to run the program:
 	Click the "Run_me_first_flextime_compiler.sh" file
@@ -6,7 +8,8 @@ In order to run the program:
 Note: I separated the compilation and execution-files for cleaner presentation.
 
 ----------------------------------------------------------------------------------
-Welcome!
+
+Flextime
 This is a purely educational program written in C.
 
 This program locates and parses a textfile filled with timestamps 
