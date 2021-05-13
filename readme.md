@@ -13,9 +13,10 @@ Note* I separated the compilation and execution-files for cleaner presentation.
 ----------------------------------------------------------------------------------
 
 Flextime
+
 This is a purely educational program written in C.
 
-This program locates and parses a textfile filled with timestamps 
+This program locates and parses a textfile filled with timestamps
 separated using a common CSV method.
 The filename is used to track period of time, worker-id and name.
 
