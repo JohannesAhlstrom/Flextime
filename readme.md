@@ -1,8 +1,11 @@
 Welcome to Flextime!
 ----------------------------------------------------------------------------------
 Instructions:
+
 In order to run the program:
+
 Click the "Run_me_first_flextime_compiler.sh" file
+
 Click the filename of the .bat file you want to see presented.
 
 Note* I separated the compilation and execution-files for cleaner presentation.
