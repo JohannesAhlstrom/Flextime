@@ -41,3 +41,5 @@ and how much overtime has been accumulated or flextime used by the worker
 benchmarked from a 40 hour workweek.
 
 The output is a .dat file containing the calculations.
+
+@Author: Johannes Ahlström
